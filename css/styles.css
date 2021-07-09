@@ -5,10 +5,10 @@
 }
 
 body {
-    background-image: url(fondo.jpg);
+    background-image: url(img/fondo.jpg);
 }
 
-.register__contenedor {
+.register__container {
     border: none;
     display: flex;
     flex-direction: column;
@@ -27,7 +27,7 @@ body {
     color: white;
 }
 
-.register__contenedor__tittle {
+.register__container__tittle {
     font-size: 22px;
     margin-bottom: 20px;
 }
